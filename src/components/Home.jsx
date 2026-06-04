@@ -152,7 +152,7 @@ export default function Home({ setPage }) {
               color: 'var(--teal-dark)',
             }}>GAPE</div>
             <div style={{ fontSize: 13, color: 'var(--gray-text)', marginTop: 6 }}>
-              Escola Profissional Amar Terra Verde
+              Escola Profissional do Alto Ave-EPAVE
             </div>
           </div>
           <div>
