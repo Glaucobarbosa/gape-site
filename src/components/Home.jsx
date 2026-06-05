@@ -163,10 +163,9 @@ export default function Home({ setPage }) {
               Sobre o Gabinete
             </h2>
             <p style={{ fontSize: 15, color: 'var(--gray-text)', lineHeight: 1.8, marginBottom: 16 }}>
-              O Gabinete de Apoio e Proximidade Escolar (GAPE) é uma estrutura multidisciplinar
-              de apoio à comunidade escolar. Através da sua ação, procura-se identificar,
-              sinalizar e intervir nas problemáticas que, de alguma forma, condicionam o acesso
-              ao conhecimento em particular e ao desenvolvimento psicossocial em geral.
+              O GAPE - Gabinete de Apoio à Proximidade Educativa é um espaço de apoio, escuta e acompanhamento destinado a 
+              toda a comunidade educativa da EPAVE. Tem como objetivo promover o bem-estar escolar, 
+              fortalecer relações positivas e contribuir para um ambiente escolar mais saudável, inclusivo e colaborativo.
             </p>
             <p style={{ fontSize: 15, color: 'var(--gray-text)', lineHeight: 1.8 }}>
               A nossa equipa é composta por profissionais especializados em psicologia,
