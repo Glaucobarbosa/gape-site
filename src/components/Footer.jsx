@@ -18,8 +18,8 @@ export default function Footer({ setPage }) {
               <span style={{ fontFamily: 'Google Sans', fontWeight: 700, fontSize: 18, color: '#fff' }}>GAPE</span>
             </div>
             <p style={{ fontSize: 13, lineHeight: 1.7, maxWidth: 280 }}>
-              Gabinete de Apoio e Proximidade Educacional<br />
-              Escola Profissional Amar Terra Verde
+              Gabinete de Apoio à Proximidade Educativa<br />
+              Escola Profissional do Alto Ave - EPAVE
             </p>
             <p style={{ fontSize: 12, marginTop: 10, opacity: 0.6 }}>gape@epave.pt · 258 000 000</p>
           </div>
