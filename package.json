@@ -11,6 +11,8 @@
   "dependencies": {
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
+    "webpack": "^5.x.x",
+    "webpack-cli": "^5.x.x"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.0",
