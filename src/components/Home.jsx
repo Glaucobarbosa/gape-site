@@ -34,7 +34,7 @@ export default function Home({ setPage }) {
             fontFamily: 'Google Sans', fontSize: 40, fontWeight: 700,
             lineHeight: 1.25, marginBottom: 16,
           }}>
-            Gabinete de Apoio e<br />Proximidade Educacional
+            Gabinete de Apoio à <br />Proximidade Educativa
           </h1>
           <p style={{ fontSize: 18, opacity: 0.85, lineHeight: 1.7, marginBottom: 36 }}>
             Tudo o que você precisa saber para usar nossos serviços da melhor forma
