@@ -1,7 +1,7 @@
 const TEAM = [
   {
     initials: 'IA',
-    name: 'Dra. Ines Almeida',
+    name: 'Dra. Inês Almeida',
     role: 'Responsável do GAPE',
     area: 'Coordenação e Gestão',
     desc: 'Técnica do projeto “Povoarte Educa” integrado no PIPSE e
