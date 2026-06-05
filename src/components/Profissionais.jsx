@@ -1,11 +1,11 @@
 const TEAM = [
   {
     initials: 'IA',
-    name: 'Dra. Inês Almeida',
+    name: 'Dra. Ines Almeida',
     role: 'Responsável do GAPE',
     area: 'Coordenação e Gestão',
     desc: 'Técnica do projeto “Povoarte Educa” integrado no PIPSE e
-      estagiária do Mestrado em Educação com especialização em Mediação Educacional).',
+      estagiária do Mestrado em Educação com especializacao em Mediacao Educacional).',
     color: '#6B2D8C',
   },
   {
