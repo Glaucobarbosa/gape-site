@@ -52,7 +52,7 @@ export default function Footer({ setPage }) {
         </div>
 
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.12)', paddingTop: 18, fontSize: 12, textAlign: 'center', opacity: 0.55 }}>
-          © {new Date().getFullYear()} GAPE — Escola Profissional Amar Terra Verde. Todos os direitos reservados.
+          © {new Date().getFullYear()} GAPE — Escola Profissional do Alto Ave - EPAVE. Todos os direitos reservados.
         </div>
       </div>
     </footer>
